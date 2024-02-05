@@ -6,9 +6,7 @@ Student, Hainan University
 
 Web Security, [HnuSec](https://hnusec.github.io/) & [W&M Team](https://wm-team.cn/)
 
-Now focusing on Dotnet and Java Security
-
-But also interested in Web Developmet
+Now focusing on Dotnet | Java Security | Web Developmet
 
 Blog: [boogipop.com](https://boogipop.com)
 
